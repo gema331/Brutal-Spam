@@ -1,5 +1,5 @@
 # Brutal-Spam
 
-$ git clone https://github.com/gema331/Brutal-Spam
-$ cd Brutal-Spam
-$ python2 Spamer.py
+$ Ketik"git clone https://github.com/gema331/Brutal-Spam.git"
+$ Ketik"cd Brutal-Spam"
+$ Ketik"python2 Spamer.py"
